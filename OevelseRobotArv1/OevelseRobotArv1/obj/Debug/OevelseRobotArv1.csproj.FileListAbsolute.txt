@@ -1,0 +1,9 @@
+C:\Users\2takk\Documents\vsProjects\OevelseRobotArv1\OevelseRobotArv1\bin\Debug\OevelseRobotArv1.exe.config
+C:\Users\2takk\Documents\vsProjects\OevelseRobotArv1\OevelseRobotArv1\bin\Debug\OevelseRobotArv1.exe
+C:\Users\2takk\Documents\vsProjects\OevelseRobotArv1\OevelseRobotArv1\bin\Debug\OevelseRobotArv1.pdb
+C:\Users\2takk\Documents\vsProjects\OevelseRobotArv1\OevelseRobotArv1\bin\Debug\NXT.dll
+C:\Users\2takk\Documents\vsProjects\OevelseRobotArv1\OevelseRobotArv1\bin\Debug\NXTMindstorm.dll
+C:\Users\2takk\Documents\vsProjects\OevelseRobotArv1\OevelseRobotArv1\bin\Debug\WinUsbWrapper.dll
+C:\Users\2takk\Documents\vsProjects\OevelseRobotArv1\OevelseRobotArv1\obj\Debug\OevelseRobotArv1.csprojResolveAssemblyReference.cache
+C:\Users\2takk\Documents\vsProjects\OevelseRobotArv1\OevelseRobotArv1\obj\Debug\OevelseRobotArv1.exe
+C:\Users\2takk\Documents\vsProjects\OevelseRobotArv1\OevelseRobotArv1\obj\Debug\OevelseRobotArv1.pdb
